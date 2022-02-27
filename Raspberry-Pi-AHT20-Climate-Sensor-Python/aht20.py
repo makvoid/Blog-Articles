@@ -47,11 +47,12 @@ def save_entry(location, temperature, humidity):
     })
 
     # Save the list
-    try:
-        f.write(json.dumps(entries, indent=2))
-    except Exception as e:
-        print('Error: Saving entries.json failed')
-        raise e
+    with open("entries.json", "w") as f:
+        try:
+            f.write(json.dumps(entries, indent=2))
+        except Exception as e:
+            print('Error: Saving entries.json failed')
+            raise e
 
 def average_date(date, entries):
     # Get a list of all entries for this date
@@ -70,6 +71,10 @@ def get_entries(location):
 
     # Filter entries by our location
     entries = list(filter(lambda e: e['location'] == location, all_entries))
+
+    if len(entries) == 0:
+        print('Error: No entries were returned for that location ({}). Try another?'.format(location))
+        sys.exit(1)
 
     # Get a set/list of unique dates in YYYY-MM-DD format from the entries
     dates = set(map(lambda e: e['date'][0:10], entries))
