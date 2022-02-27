@@ -72,6 +72,7 @@ def get_entries(location):
     # Filter entries by our location
     entries = list(filter(lambda e: e['location'] == location, all_entries))
 
+    # Ensure at least one entry is returned for this location
     if len(entries) == 0:
         print('Error: No entries were returned for that location ({}). Try another?'.format(location))
         sys.exit(1)
