@@ -74,7 +74,7 @@ def get_entries(location):
 
     # Ensure at least one entry is returned for this location
     if len(entries) == 0:
-        print('Error: No entries were returned for that location ({}). Try another?'.format(location))
+        print('Error: No entries found for location ({}). Try another?'.format(location))
         sys.exit(1)
 
     # Get a set/list of unique dates in YYYY-MM-DD format from the entries
