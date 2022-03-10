@@ -59,8 +59,8 @@ def average_date(date, entries):
     events = list(filter(lambda x: (x['date'][0:10] == date), entries))
     return {
         'date': pd.to_datetime(date),
-        'temperature': sum(e['temperature'] for e in events) / len(events),
-        'humidity': sum(e['humidity'] for e in events) / len(events)
+        'temperature': sum(float(e['temperature']) for e in events) / len(events),
+        'humidity': sum(float(e['humidity']) for e in events) / len(events)
     }
 
 # Returns entries as DataFrames
