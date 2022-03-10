@@ -1,0 +1,1297 @@
+[
+  {
+    "location": "Garage",
+    "temperature": 70.82,
+    "humidity": 38.37,
+    "aqi": 100.4,
+    "date": "2022-03-08T08:30:07.434000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.4,
+    "humidity": 39.73,
+    "aqi": 101,
+    "date": "2022-03-08T08:45:07.521000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.72,
+    "humidity": 38.61,
+    "aqi": 99,
+    "date": "2022-03-08T09:00:09.128000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.38,
+    "humidity": 36.82,
+    "aqi": 98,
+    "date": "2022-03-08T09:15:09.070000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 71.7,
+    "humidity": 37.61,
+    "aqi": 95,
+    "date": "2022-03-08T09:30:09.363000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.97,
+    "humidity": 36.35,
+    "aqi": 101,
+    "date": "2022-03-08T09:45:06.522000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.32,
+    "humidity": 36.23,
+    "aqi": 102,
+    "date": "2022-03-08T10:00:08.574000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.38,
+    "humidity": 36.32,
+    "aqi": 101,
+    "date": "2022-03-08T10:15:08.268000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.54,
+    "humidity": 36.45,
+    "aqi": 102,
+    "date": "2022-03-08T10:30:09"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.57,
+    "humidity": 36.56,
+    "aqi": 93,
+    "date": "2022-03-08T10:45:08.418000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.02,
+    "humidity": 36.29,
+    "aqi": 101,
+    "date": "2022-03-08T11:00:08.244000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.79,
+    "humidity": 36.75,
+    "aqi": 100,
+    "date": "2022-03-08T11:15:09.230000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.95,
+    "humidity": 36.97,
+    "aqi": 105,
+    "date": "2022-03-08T11:30:08.500000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.39,
+    "humidity": 36.74,
+    "aqi": 101,
+    "date": "2022-03-08T11:45:06.562000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.71,
+    "humidity": 36.83,
+    "aqi": 101,
+    "date": "2022-03-08T12:00:08.720000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.51,
+    "humidity": 37.15,
+    "aqi": 101,
+    "date": "2022-03-08T12:15:07.704000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.44,
+    "humidity": 37.64,
+    "aqi": 100,
+    "date": "2022-03-08T12:30:09.061000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.88,
+    "humidity": 37.49,
+    "aqi": 102,
+    "date": "2022-03-08T12:45:08.471000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.55,
+    "humidity": 38.16,
+    "aqi": 101,
+    "date": "2022-03-08T13:00:09.406000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.32,
+    "humidity": 37.54,
+    "aqi": 99,
+    "date": "2022-03-08T13:15:09.493000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.06,
+    "humidity": 37.92,
+    "aqi": 102,
+    "date": "2022-03-08T13:30:06.702000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.92,
+    "humidity": 38.54,
+    "aqi": 101,
+    "date": "2022-03-08T13:45:07.995000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.31,
+    "humidity": 38.22,
+    "aqi": 96,
+    "date": "2022-03-08T14:00:08.050000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.78,
+    "humidity": 38.11,
+    "aqi": 99,
+    "date": "2022-03-08T14:15:07.553000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.0,
+    "humidity": 38.21,
+    "aqi": 99,
+    "date": "2022-03-08T14:30:08.068000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.94,
+    "humidity": 38.41,
+    "aqi": 100,
+    "date": "2022-03-08T14:45:09.376000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.4,
+    "humidity": 39.25,
+    "aqi": 102,
+    "date": "2022-03-08T15:00:09.462000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.93,
+    "humidity": 39.39,
+    "aqi": 98,
+    "date": "2022-03-08T15:15:07.693000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.48,
+    "humidity": 38.85,
+    "aqi": 93,
+    "date": "2022-03-08T15:30:08.317000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.29,
+    "humidity": 38.65,
+    "aqi": 91,
+    "date": "2022-03-08T15:45:08.891000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.36,
+    "humidity": 39.39,
+    "aqi": 103,
+    "date": "2022-03-08T16:00:09.009000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.67,
+    "humidity": 39.39,
+    "aqi": 99,
+    "date": "2022-03-08T16:15:09.073000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.64,
+    "humidity": 39.83,
+    "aqi": 102,
+    "date": "2022-03-08T16:30:06.989000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.97,
+    "humidity": 40.21,
+    "aqi": 98,
+    "date": "2022-03-08T16:45:07.838000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.55,
+    "humidity": 41.17,
+    "aqi": 97,
+    "date": "2022-03-08T17:00:08.529000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 78.34,
+    "humidity": 39.13,
+    "aqi": 100,
+    "date": "2022-03-08T17:15:08.720000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.51,
+    "humidity": 39.98,
+    "aqi": 85,
+    "date": "2022-03-08T17:30:08.881000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.65,
+    "humidity": 39.78,
+    "aqi": 101,
+    "date": "2022-03-08T17:45:09.144000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.78,
+    "humidity": 39.7,
+    "aqi": 102,
+    "date": "2022-03-08T18:00:09.223000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.67,
+    "humidity": 41.47,
+    "aqi": 109,
+    "date": "2022-03-08T18:15:09.321000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.27,
+    "humidity": 40.7,
+    "aqi": 97,
+    "date": "2022-03-08T18:30:08.545000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.61,
+    "humidity": 40.13,
+    "aqi": 100,
+    "date": "2022-03-08T18:45:08.695000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.21,
+    "humidity": 40.76,
+    "aqi": 102,
+    "date": "2022-03-08T19:00:08.707000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.21,
+    "humidity": 40.62,
+    "aqi": 100,
+    "date": "2022-03-08T19:15:08.918000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.51,
+    "humidity": 41.61,
+    "aqi": 103,
+    "date": "2022-03-08T19:30:09.142000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.85,
+    "humidity": 41.01,
+    "aqi": 113,
+    "date": "2022-03-08T19:45:09.219000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.49,
+    "humidity": 40.38,
+    "aqi": 106,
+    "date": "2022-03-08T20:00:09.308000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.31,
+    "humidity": 40.42,
+    "aqi": 93,
+    "date": "2022-03-08T20:15:09.395000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.06,
+    "humidity": 40.57,
+    "aqi": 88,
+    "date": "2022-03-08T20:30:08.787000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.63,
+    "humidity": 40.94,
+    "aqi": 101,
+    "date": "2022-03-08T20:45:08.944000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.22,
+    "humidity": 41.05,
+    "aqi": 98,
+    "date": "2022-03-08T21:00:08.933000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.38,
+    "humidity": 44.58,
+    "aqi": 100,
+    "date": "2022-03-08T21:15:06.320000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.26,
+    "humidity": 45.95,
+    "aqi": 97,
+    "date": "2022-03-08T21:30:06.459000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.22,
+    "humidity": 45.6,
+    "aqi": 90,
+    "date": "2022-03-08T21:45:06.248000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 71.96,
+    "humidity": 45.73,
+    "aqi": 100,
+    "date": "2022-03-08T22:00:06.552000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.87,
+    "humidity": 46.38,
+    "aqi": 107,
+    "date": "2022-03-08T22:15:06.609000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.0,
+    "humidity": 46.57,
+    "aqi": 114,
+    "date": "2022-03-08T22:30:05.727000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.8,
+    "humidity": 46.32,
+    "aqi": 101,
+    "date": "2022-03-08T22:45:05.916000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.15,
+    "humidity": 46.9,
+    "aqi": 100,
+    "date": "2022-03-08T23:00:05.960000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.16,
+    "humidity": 47.83,
+    "aqi": 99,
+    "date": "2022-03-08T23:15:06.011000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.32,
+    "humidity": 47.2,
+    "aqi": 100,
+    "date": "2022-03-08T23:30:06.090000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.46,
+    "humidity": 46.67,
+    "aqi": 104,
+    "date": "2022-03-08T23:45:06.324000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.32,
+    "humidity": 46.32,
+    "aqi": 98,
+    "date": "2022-03-09T00:00:13.076000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.16,
+    "humidity": 46.4,
+    "aqi": 101,
+    "date": "2022-03-09T00:15:06.532000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.59,
+    "humidity": 46.72,
+    "aqi": 96,
+    "date": "2022-03-09T00:30:05.799000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.68,
+    "humidity": 46.38,
+    "aqi": 98,
+    "date": "2022-03-09T00:45:05.849000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.04,
+    "humidity": 45.51,
+    "aqi": 100,
+    "date": "2022-03-09T01:00:05.990000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.79,
+    "humidity": 45.64,
+    "aqi": 101,
+    "date": "2022-03-09T01:15:05.880000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.83,
+    "humidity": 46.36,
+    "aqi": 102,
+    "date": "2022-03-09T01:30:06.075000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.68,
+    "humidity": 44.78,
+    "aqi": 100,
+    "date": "2022-03-09T01:45:06.227000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.16,
+    "humidity": 45.09,
+    "aqi": 102,
+    "date": "2022-03-09T02:00:06.308000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.48,
+    "humidity": 45.15,
+    "aqi": 97,
+    "date": "2022-03-09T02:15:06.149000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.01,
+    "humidity": 45.68,
+    "aqi": 99,
+    "date": "2022-03-09T02:30:06.568000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.64,
+    "humidity": 46.01,
+    "aqi": 99,
+    "date": "2022-03-09T02:45:05.716000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.47,
+    "humidity": 44.66,
+    "aqi": 102,
+    "date": "2022-03-09T03:00:05.685000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.45,
+    "humidity": 44.21,
+    "aqi": 103,
+    "date": "2022-03-09T03:15:05.819000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.32,
+    "humidity": 45.2,
+    "aqi": 97,
+    "date": "2022-03-09T03:30:06.089000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.75,
+    "humidity": 44.44,
+    "aqi": 100,
+    "date": "2022-03-09T03:45:06.092000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.59,
+    "humidity": 45.54,
+    "aqi": 98,
+    "date": "2022-03-09T04:00:06.036000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.67,
+    "humidity": 45.41,
+    "aqi": 101,
+    "date": "2022-03-09T04:15:06.250000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.06,
+    "humidity": 44.16,
+    "aqi": 99,
+    "date": "2022-03-09T04:30:06.497000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.01,
+    "humidity": 45.75,
+    "aqi": 99,
+    "date": "2022-03-09T04:45:06.425000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.6,
+    "humidity": 44.46,
+    "aqi": 103,
+    "date": "2022-03-09T05:00:06.418000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.64,
+    "humidity": 44.08,
+    "aqi": 102,
+    "date": "2022-03-09T05:15:05.832000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.97,
+    "humidity": 44.74,
+    "aqi": 94,
+    "date": "2022-03-09T05:30:05.749000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.31,
+    "humidity": 45.22,
+    "aqi": 103,
+    "date": "2022-03-09T05:45:05.722000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.6,
+    "humidity": 44.49,
+    "aqi": 99,
+    "date": "2022-03-09T06:00:05.969000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.4,
+    "humidity": 44.6,
+    "aqi": 104,
+    "date": "2022-03-09T06:15:06.179000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.49,
+    "humidity": 44.45,
+    "aqi": 100,
+    "date": "2022-03-09T06:30:05.559000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.05,
+    "humidity": 44.51,
+    "aqi": 102,
+    "date": "2022-03-09T06:45:05.813000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 61.75,
+    "humidity": 46.06,
+    "aqi": 100,
+    "date": "2022-03-09T07:00:06.030000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 62.62,
+    "humidity": 44.46,
+    "aqi": 101,
+    "date": "2022-03-09T07:15:05.962000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 62.54,
+    "humidity": 44.34,
+    "aqi": 100,
+    "date": "2022-03-09T07:30:06.121000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 62.2,
+    "humidity": 45.07,
+    "aqi": 100,
+    "date": "2022-03-09T07:45:06.099000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 62.6,
+    "humidity": 44.3,
+    "aqi": 101,
+    "date": "2022-03-09T08:00:06.328000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 61.8,
+    "humidity": 45.79,
+    "aqi": 98,
+    "date": "2022-03-09T08:15:06.372000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 62.67,
+    "humidity": 44.27,
+    "aqi": 100,
+    "date": "2022-03-09T08:30:06.361000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.09,
+    "humidity": 42.75,
+    "aqi": 100,
+    "date": "2022-03-09T08:45:05.968000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.51,
+    "humidity": 43.47,
+    "aqi": 106,
+    "date": "2022-03-09T09:00:05.669000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.49,
+    "humidity": 43.37,
+    "aqi": 97,
+    "date": "2022-03-09T09:15:08.786000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.07,
+    "humidity": 41.85,
+    "aqi": 100,
+    "date": "2022-03-09T09:30:06.084000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 60.56,
+    "humidity": 47.11,
+    "aqi": 82,
+    "date": "2022-03-09T09:45:06.103000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.72,
+    "humidity": 40.51,
+    "aqi": 92,
+    "date": "2022-03-09T10:00:06.237000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.46,
+    "humidity": 39.75,
+    "aqi": 89,
+    "date": "2022-03-09T10:15:06.149000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.5,
+    "humidity": 40.31,
+    "aqi": 101,
+    "date": "2022-03-09T10:30:06.654000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.96,
+    "humidity": 39.79,
+    "aqi": 91,
+    "date": "2022-03-09T10:45:06.528000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.67,
+    "humidity": 40.35,
+    "aqi": 101,
+    "date": "2022-03-09T11:00:05.669000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.77,
+    "humidity": 40.38,
+    "aqi": 101,
+    "date": "2022-03-09T11:15:05.857000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.36,
+    "humidity": 39.8,
+    "aqi": 99,
+    "date": "2022-03-09T11:30:06.020000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.39,
+    "humidity": 39.84,
+    "aqi": 97,
+    "date": "2022-03-09T11:45:05.881000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.09,
+    "humidity": 40.34,
+    "aqi": 101,
+    "date": "2022-03-09T12:00:05.857000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.94,
+    "humidity": 39.59,
+    "aqi": 99,
+    "date": "2022-03-09T12:15:06.169000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.92,
+    "humidity": 39.87,
+    "aqi": 101,
+    "date": "2022-03-09T12:30:06.264000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.92,
+    "humidity": 39.86,
+    "aqi": 96,
+    "date": "2022-03-09T12:45:06.308000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.96,
+    "humidity": 39.89,
+    "aqi": 101,
+    "date": "2022-03-09T13:00:06.550000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.2,
+    "humidity": 39.45,
+    "aqi": 94,
+    "date": "2022-03-09T13:15:06.514000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.52,
+    "humidity": 39.3,
+    "aqi": 99,
+    "date": "2022-03-09T13:30:05.819000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.49,
+    "humidity": 38.64,
+    "aqi": 102,
+    "date": "2022-03-09T13:45:06.037000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.3,
+    "humidity": 38.13,
+    "aqi": 175,
+    "date": "2022-03-09T14:00:05.884000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.11,
+    "humidity": 36.94,
+    "aqi": 101,
+    "date": "2022-03-09T14:15:05.949000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.79,
+    "humidity": 37.12,
+    "aqi": 99,
+    "date": "2022-03-09T14:30:06.310000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.95,
+    "humidity": 37.4,
+    "aqi": 100,
+    "date": "2022-03-09T14:45:06.406000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.79,
+    "humidity": 36.92,
+    "aqi": 104,
+    "date": "2022-03-09T15:00:06.168000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.89,
+    "humidity": 35.31,
+    "aqi": 101,
+    "date": "2022-03-09T15:15:06.442000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.82,
+    "humidity": 35.51,
+    "aqi": 100,
+    "date": "2022-03-09T15:45:05.697000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.81,
+    "humidity": 34.98,
+    "aqi": 99,
+    "date": "2022-03-09T16:00:05.870000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 77.53,
+    "humidity": 34.42,
+    "aqi": 98,
+    "date": "2022-03-09T16:15:06.042000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.51,
+    "humidity": 35.96,
+    "aqi": 101,
+    "date": "2022-03-09T16:30:06.005000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.64,
+    "humidity": 35.64,
+    "aqi": 98,
+    "date": "2022-03-09T16:45:05.978000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.69,
+    "humidity": 35.29,
+    "aqi": 98,
+    "date": "2022-03-09T17:00:06.219000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.3,
+    "humidity": 35.33,
+    "aqi": 99,
+    "date": "2022-03-09T17:15:06.460000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 76.08,
+    "humidity": 35.25,
+    "aqi": 104,
+    "date": "2022-03-09T17:30:06.432000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.62,
+    "humidity": 35.23,
+    "aqi": 102,
+    "date": "2022-03-09T17:45:06.558000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 75.12,
+    "humidity": 35.65,
+    "aqi": 94,
+    "date": "2022-03-09T18:00:05.716000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.67,
+    "humidity": 35.74,
+    "aqi": 98,
+    "date": "2022-03-09T18:15:05.807000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.61,
+    "humidity": 35.69,
+    "aqi": 97,
+    "date": "2022-03-09T18:30:05.865000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 74.04,
+    "humidity": 36.2,
+    "aqi": 98,
+    "date": "2022-03-09T18:45:05.923000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.87,
+    "humidity": 36.04,
+    "aqi": 106,
+    "date": "2022-03-09T19:00:06.143000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.29,
+    "humidity": 36.42,
+    "aqi": 102,
+    "date": "2022-03-09T19:15:06.132000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 73.13,
+    "humidity": 36.41,
+    "aqi": 98,
+    "date": "2022-03-09T19:30:06.297000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.35,
+    "humidity": 37.02,
+    "aqi": 100,
+    "date": "2022-03-09T19:45:06.515000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.06,
+    "humidity": 37.15,
+    "aqi": 99,
+    "date": "2022-03-09T20:00:06.592000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 72.04,
+    "humidity": 36.95,
+    "aqi": 97,
+    "date": "2022-03-09T20:15:05.569000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 71.53,
+    "humidity": 37.31,
+    "aqi": 101,
+    "date": "2022-03-09T20:30:05.805000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.96,
+    "humidity": 37.77,
+    "aqi": 103,
+    "date": "2022-03-09T20:45:06.049000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.71,
+    "humidity": 37.98,
+    "aqi": 98,
+    "date": "2022-03-09T21:00:05.924000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.33,
+    "humidity": 38.22,
+    "aqi": 98,
+    "date": "2022-03-09T21:15:06.009000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.54,
+    "humidity": 37.91,
+    "aqi": 102,
+    "date": "2022-03-09T21:30:06.334000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.46,
+    "humidity": 37.93,
+    "aqi": 100,
+    "date": "2022-03-09T21:45:06.386000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.03,
+    "humidity": 38.43,
+    "aqi": 101,
+    "date": "2022-03-09T22:00:06.403000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.3,
+    "humidity": 38.9,
+    "aqi": 102,
+    "date": "2022-03-09T22:15:06.401000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.28,
+    "humidity": 39.07,
+    "aqi": 101,
+    "date": "2022-03-09T22:30:05.910000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.52,
+    "humidity": 38.77,
+    "aqi": 101,
+    "date": "2022-03-09T22:45:06.006000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.82,
+    "humidity": 37.26,
+    "aqi": 99,
+    "date": "2022-03-09T23:00:08.831000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 71.18,
+    "humidity": 36.61,
+    "aqi": 100,
+    "date": "2022-03-09T23:15:08.151000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 71.18,
+    "humidity": 36.85,
+    "aqi": 101,
+    "date": "2022-03-09T23:30:09.203000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.72,
+    "humidity": 38.32,
+    "aqi": 101,
+    "date": "2022-03-09T23:45:07.992000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 70.13,
+    "humidity": 37.78,
+    "aqi": 99,
+    "date": "2022-03-10T00:00:08.145000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 69.13,
+    "humidity": 38.74,
+    "aqi": 99,
+    "date": "2022-03-10T00:15:08.301000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.34,
+    "humidity": 39.53,
+    "aqi": 99,
+    "date": "2022-03-10T00:30:08.288000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.36,
+    "humidity": 39.56,
+    "aqi": 106,
+    "date": "2022-03-10T00:45:08.554000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.32,
+    "humidity": 39.47,
+    "aqi": 98,
+    "date": "2022-03-10T01:00:08.814000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.26,
+    "humidity": 39.55,
+    "aqi": 97,
+    "date": "2022-03-10T01:15:08.693000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.72,
+    "humidity": 40.2,
+    "aqi": 97,
+    "date": "2022-03-10T01:30:09.365000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.8,
+    "humidity": 38.52,
+    "aqi": 100,
+    "date": "2022-03-10T01:45:08.548000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.87,
+    "humidity": 39.71,
+    "aqi": 102,
+    "date": "2022-03-10T02:00:08.574000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.8,
+    "humidity": 38.56,
+    "aqi": 97,
+    "date": "2022-03-10T02:15:08.741000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.33,
+    "humidity": 39.0,
+    "aqi": 97,
+    "date": "2022-03-10T02:30:08.952000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.64,
+    "humidity": 39.82,
+    "aqi": 98,
+    "date": "2022-03-10T02:45:09.052000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.61,
+    "humidity": 38.89,
+    "aqi": 103,
+    "date": "2022-03-10T03:00:09.155000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 68.07,
+    "humidity": 39.46,
+    "aqi": 99,
+    "date": "2022-03-10T03:15:09.255000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.53,
+    "humidity": 39.67,
+    "aqi": 101,
+    "date": "2022-03-10T03:30:08.528000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 67.15,
+    "humidity": 40.26,
+    "aqi": 100,
+    "date": "2022-03-10T03:45:08.752000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.42,
+    "humidity": 41.08,
+    "aqi": 95,
+    "date": "2022-03-10T04:00:08.743000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.84,
+    "humidity": 40.53,
+    "aqi": 104,
+    "date": "2022-03-10T04:15:08.856000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.79,
+    "humidity": 41.66,
+    "aqi": 101,
+    "date": "2022-03-10T04:30:09.148000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 66.23,
+    "humidity": 40.96,
+    "aqi": 97,
+    "date": "2022-03-10T04:45:09.250000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.55,
+    "humidity": 41.73,
+    "aqi": 102,
+    "date": "2022-03-10T05:00:09.463000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 65.27,
+    "humidity": 41.9,
+    "aqi": 97,
+    "date": "2022-03-10T05:15:06.586000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.8,
+    "humidity": 42.29,
+    "aqi": 100,
+    "date": "2022-03-10T05:30:08.807000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.76,
+    "humidity": 42.1,
+    "aqi": 98,
+    "date": "2022-03-10T05:45:08.939000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.7,
+    "humidity": 41.93,
+    "aqi": 98,
+    "date": "2022-03-10T06:00:09.123000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.73,
+    "humidity": 42.21,
+    "aqi": 105,
+    "date": "2022-03-10T06:15:08.177000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 64.6,
+    "humidity": 41.65,
+    "aqi": 100,
+    "date": "2022-03-10T06:30:08.609000"
+  },
+  {
+    "location": "Garage",
+    "temperature": 63.68,
+    "humidity": 42.68,
+    "aqi": 98,
+    "date": "2022-03-10T06:45:08.644000"
+  }
+]
