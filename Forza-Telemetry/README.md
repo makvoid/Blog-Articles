@@ -1,7 +1,7 @@
 ## Article / Documentation
-* Medium link
+* [Medium link](https://medium.com/@makvoid/building-a-digital-dashboard-for-forza-using-python-62a0358cb43b)
 
-## Installation
+## Installation / How to run
 ```sh
 apt install -y libgtk-3-dev build-essential
 python3 -m pip install -r requirements.txt
