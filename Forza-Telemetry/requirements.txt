@@ -1,0 +1,6 @@
+adafruit_blinka
+adafruit_circuitpython_aw9523
+click
+colour
+wxpython
+yaspin
