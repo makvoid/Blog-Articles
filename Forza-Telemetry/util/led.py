@@ -136,7 +136,7 @@ class DashLEDController():
                 pins = range(1,6) if direction == 'f' else range(5, 0, -1)
                 for pin in pins:
                     self.set_led_value(controller, pin, *RGBColor.orange)
-                    sleep(0.1)
+                    sleep(0.05)
                 self.clear_status()
 
     def _set_wheel_slip_led_status(self):

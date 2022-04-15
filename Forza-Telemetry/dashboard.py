@@ -126,7 +126,6 @@ class DashboardFrame(wx.Frame):
 
 class DashboardApp(wx.App):
     maximized = True
-    manifold_open = False
 
     # OnInit is called after wx.App.__init__ is finished
     def OnInit(self):
