@@ -27,8 +27,6 @@ def worker(dashboard_data, game_version, host, port):
 
         # Update the shared dict of values - we cannot just
         # re-assign here as it won't detect the change
-        # TODO Try:
-        # dashboard_data = dict(zip(*dp.to_dict().items()))
         for k, v in dp.to_dict().items():
             dashboard_data[k] = v
 

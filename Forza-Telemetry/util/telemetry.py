@@ -11,7 +11,6 @@ class Telemetry():
     def __init__(self, data = {}):
         self.data = data
         # Cache tire temperature colors in RGB 0-255 scale
-        #51c651
         color_range = [c.rgb for c in Color('#00d0ff').range_to('#dd0000', 250)]
         self._tire_temperature_colors = list(map(RGB_SCALER, color_range))
 

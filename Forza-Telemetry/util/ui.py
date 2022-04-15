@@ -171,29 +171,35 @@ class UIElements():
 
     def draw_lap_and_position_elements(self, frame):
         '''Draw the lap and race position elements'''
+        # Create a spacer to separate the values
         spacer_2_label = wx.StaticText(frame.main_panel, wx.ID_ANY, "\n")
         spacer_2_label.SetMinSize((1, 40))
         frame.column_c.Add(spacer_2_label, 0, wx.ALL, 0)
 
+        # Create the lap number display label
         lap_num_label = wx.StaticText(frame.main_panel, wx.ID_ANY, "LAP #", style=wx.ALIGN_CENTER_HORIZONTAL)
         lap_num_label.SetForegroundColour(wx.Colour(255, 255, 255))
         lap_num_label.SetFont(wx.Font(20, wx.FONTFAMILY_DEFAULT, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_BOLD, 0, ""))
         frame.column_c.Add(lap_num_label, 0, wx.EXPAND | wx.ALL, 5)
 
+        # Create the lap number value label
         frame.lap_num_value = wx.StaticText(frame.main_panel, wx.ID_ANY, "-", style=wx.ST_NO_AUTORESIZE | wx.ALIGN_CENTER_HORIZONTAL)
         frame.lap_num_value.SetForegroundColour(wx.Colour(255, 255, 0))
         frame.lap_num_value.SetFont(wx.Font(25, wx.FONTFAMILY_DEFAULT, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_NORMAL, 0, ""))
         frame.column_c.Add(frame.lap_num_value, 0, wx.EXPAND, 5)
 
+        # Create a spacer to separate the values
         spacer_3_label = wx.StaticText(frame.main_panel, wx.ID_ANY, "\n")
         spacer_3_label.SetMinSize((1, 40))
         frame.column_c.Add(spacer_3_label, 0, wx.ALL, 0)
 
+        # Create the position display label
         position_label = wx.StaticText(frame.main_panel, wx.ID_ANY, "POSITION")
         position_label.SetForegroundColour(wx.Colour(255, 255, 255))
         position_label.SetFont(wx.Font(20, wx.FONTFAMILY_DEFAULT, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_BOLD, 0, ""))
         frame.column_c.Add(position_label, 0, wx.ALIGN_CENTER_HORIZONTAL | wx.ALL, 5)
 
+        # Create the position value label
         frame.position_value = wx.StaticText(frame.main_panel, wx.ID_ANY, "-", style=wx.ST_NO_AUTORESIZE | wx.ALIGN_CENTER_HORIZONTAL)
         frame.position_value.SetForegroundColour(wx.Colour(255, 255, 0))
         frame.position_value.SetFont(wx.Font(25, wx.FONTFAMILY_DEFAULT, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_NORMAL, 0, ""))
