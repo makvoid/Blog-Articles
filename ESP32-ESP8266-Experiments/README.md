@@ -1,2 +1,2 @@
 ## ESP32 & ESP8266 Experiments
-* Medium Article: [to be added after]
+* Medium Article: [Link](https://medium.com/@makvoid/experimenting-with-esp32-esp8266-microcontrollers-1a6e27ef15ca)
