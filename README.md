@@ -4,6 +4,7 @@ Here you will find the code and samples used in my blog posts. I highly suggest 
 # Articles
 | Date | Title | Article Link | Code Link |
 | ---- | ----- | :----------: | :-------: |
+| 2022-06-21 | Building a digital signage system using HarperDB | [Link](https://medium.com/gitconnected/building-a-digital-signage-system-using-harperdb-9f87ebe0849b) | [Link](https://github.com/makvoid/guide-harperdb-digital-signage) |
 | 2022-05-19 | Experimenting with ESP32 & ESP8266 microcontrollers | [Link](https://medium.com/@makvoid/experimenting-with-esp32-esp8266-microcontrollers-1a6e27ef15ca) | [Link](https://github.com/makvoid/Blog-Articles/tree/main/ESP32-ESP8266-Experiments) |
 | 2022-04-14 | Building a Digital Dashboard for Forza using Python | [Link](https://medium.com/@makvoid/building-a-digital-dashboard-for-forza-using-python-62a0358cb43b) | [Link](https://github.com/makvoid/Blog-Articles/tree/main/Forza-Telemetry) |
 | 2022-03-10 | Noxious Gas Monitoring Using a Raspberry Pi | [Link](https://medium.com/@makvoid/noxious-gas-monitoring-using-a-raspberry-pi-27523b6ba5b6) | [Link](https://github.com/makvoid/Blog-Articles/tree/main/Raspberry-Pi-SGP40-Mox-Gas-Sensor-Python) |
