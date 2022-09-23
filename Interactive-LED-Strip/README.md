@@ -1,7 +1,7 @@
 # Interactive LED Strip
 Underlying code behind how I built an internet-controllable LED strip using Adafruit's DotStar strip, a D1 Mini (ESP8266) and Angular.
 
-**Medium Article Link**: [Link](#TODO)
+**Medium Article Link**: [Link](https://betterprogramming.pub/building-an-internet-controllable-led-strip-cdbe1c846cd5)
 
 ---
 
