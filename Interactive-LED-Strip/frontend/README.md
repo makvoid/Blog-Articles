@@ -1,5 +1,25 @@
 # Interactive LED Strip (Frontend)
-Angular frontend used to drive the color swatch selection.
+Angular frontend used to drive the color swatch selection. This UI can be built and then hosted anywhere that serves static HTML.
+
+## Configuration
+```shell
+# Add your server URL
+vim src/environments/environment.*
+```
+
+## Run locally
+```shell
+yarn
+npx ng serve --open
+```
+
+## Deployment
+```shell
+yarn
+npx ng build
+cd dist/frontend
+tar -czf build.tar.gz .
+```
 
 ---
 
