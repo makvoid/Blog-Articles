@@ -1,0 +1,16 @@
+.color-wrapper {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  display: flex;
+}
+
+color-sketch {
+  margin-top: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.spinner {
+  margin-top: 5rem;
+}

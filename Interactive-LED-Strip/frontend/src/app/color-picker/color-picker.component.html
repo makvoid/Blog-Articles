@@ -1,0 +1,14 @@
+<div class="mx-auto lds-ellipsis spinner" *ngIf="!this.loaded">
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>
+<div class="color-wrapper" [ngStyle]="{'background-color': color}" *ngIf="this.loaded">
+  <color-sketch
+    [presetColors]="presetColors"
+    [color]="color"
+    [disableAlpha]="true"
+    (onChangeComplete)="changeComplete($event)"
+  ></color-sketch>
+</div>
