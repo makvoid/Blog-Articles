@@ -4,6 +4,10 @@ Here you will find the code and samples used in my blog posts. I highly suggest 
 # Articles
 | Date | Title | Article Link | Code Link |
 | ---- | ----- | :----------: | :-------: |
+| 2022-12-11 | Using Radio Frequency and Python to control the World | [Link](https://medium.com/gitconnected/using-radio-frequency-and-python-to-control-the-world-52d99aa9cece) | [Link](https://github.com/makvoid/Blog-Articles/tree/main/LoRa-Garage)
+| 2022-11-28 | Distributed Application Processing with Apache Kafka & HarperDB | [Link](https://harperdb.io/blog/distributed-application-processing-with-kafka-harperdb/) | [Link](https://github.com/makvoid/guide-harperdb-kafka-ingestion)
+| 2022-11-14 | Deploy HarperDB & StackPath to reduce latency at the Edge | [Link](https://harperdb.io/blog/deploy-harperdb-stackpath-to-reduce-latency-at-the-edge/)  | [Link](https://github.com/makvoid/guide-harperdb-stackpath)
+| 2022-10-19 | Global Multi-Cloud Terraform Deployment with HarperDB | [Link](https://medium.com/geekculture/global-multi-cloud-terraform-deployment-for-low-latency-applications-worldwide-b02c65c859ca) | [Link](https://github.com/makvoid/guide-harperdb-multi-cloud-tf)
 | 2022-09-23 | Building an Internet-Controllable LED Strip | [Link](https://betterprogramming.pub/building-an-internet-controllable-led-strip-cdbe1c846cd5) | [Link](https://github.com/makvoid/Blog-Articles/tree/main/Interactive-LED-Strip) |
 | 2022-09-21 | How to Build a Real-Time Crypto Dashboard with HarperDB | [Link](https://harperdb.io/blog/how-to-build-a-real-time-crypto-dashboard/) | [Link](https://github.com/makvoid/guide-harperdb-crypto-dashboard)
 | 2022-07-11 | Arducam Hawk-Eye: 64MP Camera module for the Raspberry Pi | [Link](https://levelup.gitconnected.com/arducam-hawk-eye-64mp-camera-module-for-the-raspberry-pi-4f451b95ed11) | [Link](https://github.com/makvoid/Blog-Articles/tree/main/Arducam-64MP-Raspberry-Pi-Camera) |
