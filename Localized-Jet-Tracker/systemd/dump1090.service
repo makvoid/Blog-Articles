@@ -1,0 +1,15 @@
+[Unit]
+Description=Dump1090 Service
+After=network-online.target
+StartLimitInterval=200
+StartLimitBurst=5
+
+[Service]
+WorkingDirectory=/opt/dump1090
+User=pi
+ExecStart=/opt/dump1090/dump1090 --net
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

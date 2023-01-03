@@ -1,0 +1,10 @@
+[Unit]
+Description=Automatic timer for dump1090-parser
+Requires=dump1090-parser.service
+
+[Timer]
+Unit=dump1090-parser.service
+OnCalendar=*:0/1
+
+[Install]
+WantedBy=timers.target

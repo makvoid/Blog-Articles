@@ -1,0 +1,12 @@
+[Unit]
+Description=Dump1090 Parser Service
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/Localized-Jet-Tracker
+User=pi
+ExecStart=python3 parse.py
+
+[Install]
+WantedBy=multi-user.target
