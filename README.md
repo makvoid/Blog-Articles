@@ -4,6 +4,7 @@ Here you will find the code and samples used in my blog posts. I highly suggest 
 # Articles
 | Date | Title | Article Link | Code Link |
 | ---- | ----- | :----------: | :-------: |
+| 2022-01-05 | Building a localized jet tracker using a Raspberry Pi | [Link](https://medium.com/gitconnected/building-a-localized-jet-tracker-using-a-raspberry-pi-d0b4cbacf29) | [Link](https://github.com/makvoid/Blog-Articles/tree/main/Localized-Jet-Tracker)
 | 2022-12-11 | Using Radio Frequency and Python to control the World | [Link](https://medium.com/gitconnected/using-radio-frequency-and-python-to-control-the-world-52d99aa9cece) | [Link](https://github.com/makvoid/Blog-Articles/tree/main/LoRa-Garage)
 | 2022-11-28 | Distributed Application Processing with Apache Kafka & HarperDB | [Link](https://harperdb.io/blog/distributed-application-processing-with-kafka-harperdb/) | [Link](https://github.com/makvoid/guide-harperdb-kafka-ingestion)
 | 2022-11-14 | Deploy HarperDB & StackPath to reduce latency at the Edge | [Link](https://harperdb.io/blog/deploy-harperdb-stackpath-to-reduce-latency-at-the-edge/)  | [Link](https://github.com/makvoid/guide-harperdb-stackpath)
