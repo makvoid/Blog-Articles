@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "assistant-server"
+version = "0.1.0"
+description = ""
+authors = ["Michael K <mike@makvoid.dev>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+phidata = "^2.3.90"
+ollama = "^0.1.9"
+requests = "^2.31.0"
+fastapi = "^0.111.0"
+logfire = {extras = ["fastapi", "requests"], version = "^0.29.0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
